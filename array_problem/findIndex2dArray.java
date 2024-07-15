@@ -1,3 +1,11 @@
+/*
+*
+*     Take matrix as an input from user. Search for a given number x and print yhe indices at which it cooure
+*
+*/
+
+
+
 import java.util.*;
 public class findIndex2dArray {
     public static void main(String[] args)
